@@ -1,0 +1,27 @@
+body {
+    background-color: lightyellow;
+}
+
+h1 {
+    text-align: center;
+}
+
+#sidebar {
+    position: fixed;
+    height: 300px;
+    left: 0;
+    top: 185px;
+    width: 150px;
+    border: solid 1px black;
+    text-align: center;
+}
+
+#mail-view {
+    margin-left: 400px;
+    margin-top: 120px;
+}
+
+#message-view {
+    margin-left: 400px;
+    margin-top: 120px;
+}
